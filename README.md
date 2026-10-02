@@ -16,6 +16,32 @@ L'objectif est de développer une application intelligente permettant de gérer,
 - Export des données
 - Assistance intelligente basée sur un LLM
 
+## 📸 Aperçu de l'application
+
+### 🔐 Authentification
+![Page de connexion](screenshots/login.png)
+
+### 📊 Tableau de bord
+![Tableau de bord](screenshots/dashboard.png)
+
+### ⚙️ Gestion des machines et recettes
+![Gestion des machines](screenshots/machines.png)
+
+![Gestion des recette](screenshots/recttes.png)
+
+### 📦 Gestion des commandes
+![Gestion des commandes](screenshots/commandes.png)
+
+### 📅 Planification optimisée et export
+![Planification de la production](screenshots/planification.png)
+
+![Export du planning sous format PDF](screenshots/pdfPlanning.png)
+
+![Export du planning sous format Excel](screenshots/ExcelPlanning.png)
+
+### 🤖 Assistant intelligent
+![Assistant intelligent](screenshots/chatbot.png)
+
 ## Technologies utilisées
 
 ### Frontend
