@@ -27,7 +27,7 @@ L'objectif est de développer une application intelligente permettant de gérer,
 ### ⚙️ Gestion des machines et recettes
 ![Gestion des machines](screenshots/machines.png)
 
-![Gestion des recette](screenshots/recttes.png)
+![Gestion des recette](screenshots/recettes.png)
 
 ### 📦 Gestion des commandes
 ![Gestion des commandes](screenshots/commandes.png)
